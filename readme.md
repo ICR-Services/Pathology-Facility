@@ -9,6 +9,7 @@ The Pathology Facility provides comprehensive support for researchers requiring 
 ### Staff
 | Role	| Name	| Orcid	| Started |
 | -- | -- | -- | -- |
-| Facility Manager |	Shichina Kannambath	| 0009-0005-6067-5696	| February 2022 |
+| Head of the Facility |	Shichina Kannambath	| 0009-0005-6067-5696	| February 2022 |
 | Pathology Facility Technician | Oscar Williamson	| 0009-0005-1517-3478	| June 2024 |
+| Scientific Officer | Otis Agbaimoni	| 0009-0001-0963-8129	| August 2026 |
 
